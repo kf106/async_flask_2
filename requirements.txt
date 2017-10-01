@@ -1,0 +1,16 @@
+click==6.7
+enum-compat==0.0.2
+eventlet==0.21.0
+Flask==0.12.2
+Flask-Login==0.4.0
+Flask-Session==0.3.1
+Flask-SocketIO==2.9.2
+greenlet==0.4.12
+itsdangerous==0.24
+Jinja2==2.7.3
+MarkupSafe==0.23
+pkg-resources==0.0.0
+python-engineio==1.7.0
+python-socketio==1.8.0
+six==1.9.0
+Werkzeug==0.12.2
