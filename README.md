@@ -10,7 +10,7 @@ https://github.com/miguelgrinberg/Flask-SocketIO
 
 https://github.com/shanealynn/async_flask/
 
-To use - please clone the repository and then set up your virtual environment using the requirements.txt file with pip and virtualenv. You can achieve this with:
+To use - please clone the repository and then set up your virtual environment using the requirements.txt file with pip and venv. You can achieve this automatically with:
 
 
     ./install.sh
