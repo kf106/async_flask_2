@@ -7,7 +7,7 @@ Flask-Session==0.3.1
 Flask-SocketIO==2.9.2
 greenlet==0.4.12
 itsdangerous==0.24
-Jinja2==2.7.3
+Jinja2==2.10.1
 MarkupSafe==0.23
 python-engineio==1.7.0
 python-socketio==1.8.0
